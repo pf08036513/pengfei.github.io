@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Shapely
 
-You can use the [editor on GitHub](https://github.com/pf08036513/pengfei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About Shapely
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Shapely is a powerful and versatile one page WordPress theme with pixel perfect design and outstanding functionality. It is by far the most advanced free WordPress theme available today with loads of unmatched customization options. This theme comes with several homepage widgets that can be used to add portfolio, testimonials, parallax sections, your product or service information, call for action and much more.
 
-### Markdown
+Shapely supports most free and premium WordPress plugins such as WooCommerce, Jetpack, Gravity Forms, Contact Form 7, Yoast SEO, Google Analytics by Yoast and much more.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This theme is the best suited for business, landing page, portfolio, ecommerce, store, local business,  personal websites but can be tweaked to be used as blog, magazine or any other awesome website while highlighting its unique one page setup. This is going to be the last WordPress theme you will ever want to use because it is so much better than anything you have seen. We promise.
 
-```markdown
-Syntax highlighted code block
+## Documentation
 
-# Header 1
-## Header 2
-### Header 3
+Theme documentation available [here](https://colorlib.com/wp/themes/shapely/).
 
-- Bulleted
-- List
+## License
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pf08036513/pengfei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This theme is licensed under GPLv3. You can feel free to modify it as loon gas you keep the original copyright information.
